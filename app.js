@@ -1,3 +1,4 @@
+
 let gameSeq = [];
 let userSeq = [];
 
@@ -78,7 +79,6 @@ function checkAns(idx){
     }
 
     
-
 }
 
 function btnpress (){
