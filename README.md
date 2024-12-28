@@ -1,2 +1,2 @@
 # Simon_Says_game
-  simon says game.
+  simon says game
